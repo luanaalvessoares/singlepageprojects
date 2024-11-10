@@ -20,6 +20,9 @@ module.exports = {
         bold: 700,
         extrabold: 900
       },
+      boxShadow: {
+        'white': '0 0 8px rgba(100, 100, 100, 0.1)',
+      },
     },
   },
   plugins: [],
